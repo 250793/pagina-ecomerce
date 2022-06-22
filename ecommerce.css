@@ -1,0 +1,22 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.search {
+    height: 20px;
+    margin-top: 10px;
+}
+
+.carrinho {
+    width: 20px;
+    height: 20px;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
